@@ -1,0 +1,50 @@
+558879299 | user@gmail.com | Q12 | STANDARD | 76.00 | 1 | CONFIRMED
+668005998 | speaker_25573@gmail.com | G23 | EARLY BIRD | 63.20 | 1 | CONFIRMED
+532162250 | speaker@gmail.com | A10 | VIP | 141.60 | 1 | CONFIRMED
+33232157 | user_25571@gmail.com | A4 | VIP | 370.00 | 1 | CONFIRMED
+33232157 | speaker_25579@gmail.com | J11 | STANDARD | 64.80 | 1 | CONFIRMED
+558879299 | user@gmail.com | C8 | STANDARD | 76.00 | 1 | CONFIRMED
+532162250 | speaker_25573@gmail.com | L23 | STANDARD | 40.00 | 1 | CONFIRMED
+558879299 | speaker_25573@gmail.com | N31 | STANDARD | 60.80 | 1 | CONFIRMED
+321668634 | user_25577@gmail.com | F1 | STANDARD | 62.00 | 1 | CONFIRMED
+705753542 | user_25577@gmail.com | L15 | EARLY BIRD | 122.00 | 1 | CONFIRMED
+705753542 | user_25577@gmail.com | I23 | EARLY BIRD | 122.00 | 1 | CONFIRMED
+705753542 | user_25571@gmail.com | E11 | EARLY BIRD | 122.00 | 1 | CONFIRMED
+532162250 | speaker_25579@gmail.com | E20 | STANDARD | 40.00 | 1 | CONFIRMED
+668005998 | speaker_25579@gmail.com | P24 | EARLY BIRD | 63.20 | 1 | CONFIRMED
+558879299 | speaker_25573@gmail.com | Q2 | STANDARD | 60.80 | 1 | CONFIRMED
+668005998 | speaker@gmail.com | G4 | EARLY BIRD | 63.20 | 1 | CONFIRMED
+668005998 | user@gmail.com | B3 | VIP | 287.00 | 1 | CONFIRMED
+33232157 | user_25571@gmail.com | G14 | STANDARD | 81.00 | 1 | CONFIRMED
+321668634 | speaker_25573@gmail.com | F5 | STANDARD | 49.60 | 1 | CONFIRMED
+532162250 | speaker_25579@gmail.com | H18 | STANDARD | 40.00 | 1 | CONFIRMED
+705753542 | speaker_25579@gmail.com | E1 | EARLY BIRD | 97.60 | 1 | CONFIRMED
+532162250 | user@gmail.com | D11 | STANDARD | 50.00 | 1 | CONFIRMED
+321668634 | user_25577@gmail.com | A2 | VIP | 295.00 | 1 | CONFIRMED
+799113480 | speaker@gmail.com | B9 | VIP | 124.80 | 1 | CONFIRMED
+321668634 | user_25577@gmail.com | Q36 | STANDARD | 62.00 | 1 | CONFIRMED
+558879299 | speaker@gmail.com | Q7 | STANDARD | 60.80 | 1 | CONFIRMED
+532162250 | speaker_25573@gmail.com | L21 | STANDARD | 40.00 | 1 | CONFIRMED
+668005998 | speaker_25573@gmail.com | N1 | EARLY BIRD | 63.20 | 1 | CONFIRMED
+321668634 | speaker_25579@gmail.com | M14 | STANDARD | 49.60 | 1 | CONFIRMED
+558879299 | speaker_25579@gmail.com | H21 | STANDARD | 60.80 | 1 | CONFIRMED
+54024084 | speaker_40838@gmail.com | N18 | EARLY BIRD | 56.80 | 1 | CONFIRMED
+157504147 | user_25577@gmail.com | C10 | STANDARD | 36.00 | 1 | CONFIRMED
+532162250 | user_25577@gmail.com | A1 | VIP | 177.00 | 1 | CONFIRMED
+668005998 | user_40842@gmail.com | A4 | VIP | 287.00 | 1 | CONFIRMED
+532162250 | user_25571@gmail.com | N27 | STANDARD | 50.00 | 1 | CONFIRMED
+668005998 | user_40842@gmail.com | L11 | EARLY BIRD | 79.00 | 1 | CONFIRMED
+532162250 | user_25571@gmail.com | L4 | STANDARD | 50.00 | 1 | CONFIRMED
+321668634 | speaker@gmail.com | J14 | STANDARD | 49.60 | 1 | CONFIRMED
+157504147 | speaker_25579@gmail.com | N36 | STANDARD | 28.80 | 1 | CONFIRMED
+33232157 | speaker@gmail.com | I8 | STANDARD | 64.80 | 1 | CONFIRMED
+157504147 | user_25571@gmail.com | O5 | STANDARD | 36.00 | 1 | CONFIRMED
+793036077 | user@gmail.com | K11 | EARLY BIRD | 94.00 | 1 | CONFIRMED
+33232157 | speaker_40848@gmail.com | Q19 | STANDARD | 64.80 | 1 | CONFIRMED
+634255742 | user@gmail.com | H24 | EARLY BIRD | 80.00 | 1 | CONFIRMED
+668005998 | user_40842@gmail.com | M11 | EARLY BIRD | 79.00 | 1 | CONFIRMED
+146377681 | user_40830@gmail.com | J6 | STANDARD | 98.00 | 1 | CONFIRMED
+54024084 | speaker@gmail.com | F13 | EARLY BIRD | 56.80 | 1 | CONFIRMED
+799113480 | speaker_25573@gmail.com | Q16 | STANDARD | 117.60 | 1 | CONFIRMED
+33232157 | speaker_25579@gmail.com | E11 | STANDARD | 64.80 | 1 | CONFIRMED
+558879299 | speaker_25579@gmail.com | J13 | STANDARD | 60.80 | 1 | CONFIRMED
