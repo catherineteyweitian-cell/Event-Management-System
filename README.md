@@ -31,14 +31,24 @@ The system provides different roles with different access permissions:
 ## My Contribution
 I was mainly responsible for the Ticket Booking, Seat Management, and Ticket Verification modules. My work included implementing seat selection, 
 managing seat availability, generating seating layouts based on event capacity, and preventing users from booking seats that have already been sold. 
-I also developed the ticket verification function for the staff, which allows staff to verify a ticket using its Ticket ID and check whether the ticket is valid. 
-In addition, I contributed to the ticket booking flow, including ticket categories, booking information, terms and conditions, and checkout.
+I also developed the ticket verification function for the staff, which allows staff to verify a ticket using its Ticket ID and check whether the ticket is valid. In addition, I contributed to the ticket booking flow, including ticket categories, booking information, terms and conditions, and checkout.
 
 ## Screenshots
+### Events Menu
+<img src="screenshots/available-events.png" width="400">
+
+### Event Details
+<img src="screenshots/event-details.png" width="400">
+
+### User can select the seat to buy ticket
+<img src="screenshots/select-seat.png" width="400">
+
+### Ticket Verification for staff
+<img src="screenshots/ticket-verification.png" width="400">
 
 ## How to Run
 1. Clone this repository.
 2. Make sure Java is installed.
 3. Open the project in a Java IDE.
 4. Run the main Java file.
-5. Log in using the appropriate user role.
+5. Log in using the appropriate user role (Username and password can see the user.txt)
