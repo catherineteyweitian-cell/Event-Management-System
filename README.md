@@ -35,16 +35,16 @@ I also developed the ticket verification function for the staff, which allows st
 
 ## Screenshots
 ### Events Menu
-<img src="screenshots/available-events.png" width="400">
+<img src="screenshots/available-events.png" width="600">
 
 ### Event Details
-<img src="screenshots/event-details.png" width="400">
+<img src="screenshots/event-details.png" width="600">
 
 ### User can select the seat to buy ticket
-<img src="screenshots/select-seat.png" width="400">
+<img src="screenshots/select-seat.png" width="600">
 
 ### Ticket Verification for staff
-<img src="screenshots/ticket-verification.png" width="400">
+<img src="screenshots/ticket-verification.png" width="600">
 
 ## How to Run
 1. Clone this repository.
